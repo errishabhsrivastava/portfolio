@@ -15,7 +15,7 @@ Short description or overview of the project.
 
 Explain how to install the project or provide steps to set it up.
 
-<iframe src="https://srivastavarishabh.in" width="100%" height="500px"></iframe>
+[Visit my website](https://srivastavarishabh.in)
 
 ```bash
 npm install
