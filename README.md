@@ -17,20 +17,6 @@ Explain how to install the project or provide steps to set it up.
 
 [Visit my website](https://srivastavarishabh.in)
 
-```bash
-npm install
-```
-
-```## Usage
-
-Provide examples or instructions on how to use the project.
-
-```javascript
-const example = require('example');
-
-// Use example
-```
-
 ## Contributing
 
 Guidelines and information for others who want to contribute to your project.
